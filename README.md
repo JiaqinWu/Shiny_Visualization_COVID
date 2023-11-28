@@ -1,4 +1,4 @@
-# Shiny_Visualization_COVID
+# Shiny Dashboard: Navigating Pandemic Realities
 
 ### Author: Jiaqin Wu
 

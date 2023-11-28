@@ -13,12 +13,12 @@ The resulting four distinct dataframes encapsulate key aspects: total case numbe
 #### Quick Link:
 - [Shiny Application](https://jw2104.shinyapps.io/Final_project/)
 
-- [Data Clean Code Demo](https://github.com/JiaqinWu/Shiny_Visualization_COVID/blob/main/Data_clean.ipynb)
+- [Data Clean Code Demo](https://github.com/JiaqinWu/Shiny_Visualization_COVID/blob/main/Data-clean/Data_clean.ipynb)
 
-- [Cleaned Datasets](https://github.com/JiaqinWu/Shiny_Visualization_COVID/tree/main/Final_project/Dataset)
+- [Cleaned Datasets](https://github.com/JiaqinWu/Shiny_Visualization_COVID/tree/main/Product/Dataset)
 
-- [Shiny Code Demo](https://github.com/JiaqinWu/Shiny_Visualization_COVID/blob/main/Final_project/app.R)
+- [Shiny Code Demo](https://github.com/JiaqinWu/Shiny_Visualization_COVID/blob/main/Product/app.R)
 
-- [Logo Picture](https://github.com/JiaqinWu/Shiny_Visualization_COVID/tree/main/Final_project/www)
+- [Logo Picture](https://github.com/JiaqinWu/Shiny_Visualization_COVID/blob/main/Product/www/healthdata.png)
 
-- [Write-up](https://github.com/JiaqinWu/Shiny_Visualization_COVID/blob/main/Final_writeup/Final-Write-up.pdf)
+- [Write-up](https://github.com/JiaqinWu/Shiny_Visualization_COVID/blob/main/Write-up/Final-Write-up.pdf)
